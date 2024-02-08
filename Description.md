@@ -40,3 +40,6 @@
 
 - **Insights and Recommendations:**
   - Summarization of key insights derived from the analysis and actionable recommendations.
+- ![Sale1](https://github.com/Rutuja-Salunke/SuperStore-Analysis/assets/102023809/dc0ff55a-5404-445d-9496-5045b4f1ea29)
+![sale2](https://github.com/Rutuja-Salunke/SuperStore-Analysis/assets/102023809/1a6da37d-04d0-4c85-a5db-163968dc5dfc)
+
