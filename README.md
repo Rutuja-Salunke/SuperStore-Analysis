@@ -1,4 +1,4 @@
-📊 US Super Store Analysis with Power BI 🚀
+# 📊 US Super Store Analysis with Power BI 🚀
 
 Explore the fascinating world of retail with our comprehensive analysis of a US Super Store using Power BI! 🛍️📈
 
